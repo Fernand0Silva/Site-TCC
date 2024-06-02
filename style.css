@@ -7,7 +7,7 @@ header{
     position: relative;
     margin-top:-1%;
     padding: 21px;
-    width: 74.5%;
+    width: 90%;
     height: 20px;
 }
 
@@ -18,12 +18,12 @@ header{
     
 }
 nav{
-    background-color: aliceblue;
     margin-top: 44px;
     margin-left: -22px;
+    width: 100%;
 }
 #img1{
-    width: 85.5%;
+    width: 99.9%;
     height: 25vw;
     margin-top: 27px;
 }
@@ -60,7 +60,7 @@ nav{
 }
 #card4{
     position: absolute;
-    margin-top:  -467px;
+    margin-top:  -420px;
     margin-left: 200px;
     width: 90px;
     height: 70px;
@@ -68,7 +68,7 @@ nav{
 #preco4{
     position: absolute;
     margin-left: 200px;
-    margin-top: -107%;
+    margin-top: -100%;
 }
 #card5{
     position: absolute;
@@ -98,7 +98,8 @@ footer{
     background-color:maroon ;
     margin-top: 10%;
     height: 169px;
-    width: 80.5%;
+    width: 99.9%;
     display: flex;
     justify-content: center;
 }
+
