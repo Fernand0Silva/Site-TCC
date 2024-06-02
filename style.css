@@ -1,0 +1,104 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+header{
+    background-color: rgba(165, 42, 42, 0.87);
+    position: relative;
+    margin-top:-1%;
+    padding: 21px;
+    width: 74.5%;
+    height: 20px;
+}
+
+.logo{
+    position: absolute;
+    margin-left: -13px;
+    margin-top: -2px;
+    
+}
+nav{
+    background-color: aliceblue;
+    margin-top: 44px;
+    margin-left: -22px;
+}
+#img1{
+    width: 85.5%;
+    height: 25vw;
+    margin-top: 27px;
+}
+.conteiner{
+    margin-top: 20px;
+}
+.cards{
+    width: 30%;
+    height: 30%;
+}
+#card1{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#preco1{
+    margin-left: 10px;
+    margin-top: 3px;
+}
+#card2{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#preco2{
+    margin-left: 10px;
+    margin-top: 3px;
+}
+#card3{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#preco3{
+    margin-left: 10px;
+    margin-top: 3px;
+}
+#card4{
+    position: absolute;
+    margin-top:  -467px;
+    margin-left: 200px;
+    width: 90px;
+    height: 70px;
+}
+#preco4{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: -107%;
+}
+#card5{
+    position: absolute;
+    margin-top:  -307px;
+    margin-left: 200px;
+    width: 90px;
+    height: 70px;
+}
+#preco5{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: -63%;
+}
+#card6{
+    position: absolute;
+    margin-top:  -147px;
+    margin-left: 200px;
+    width: 90px;
+    height: 70px;
+}
+#preco6{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: -19%;
+}
+footer{
+    background-color:maroon ;
+    margin-top: 10%;
+    height: 169px;
+    width: 80.5%;
+    display: flex;
+    justify-content: center;
+}
