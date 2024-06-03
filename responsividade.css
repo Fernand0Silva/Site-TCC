@@ -4,7 +4,7 @@
 }
 @media (max-width:1920px) and (min-width:1080px) {
     header{
-        background-color: rgba(165, 42, 42, 0.87);
+        background-color: #823D23;
         position: relative;
         margin-top:-1%;
         padding: 21px;
@@ -12,10 +12,12 @@
         height: 20px;
     }
     body{
-        background-color: red;
+        margin: 0px;
+        padding: 0px;
     }
     #img1{
         width: 100%;
+        height: 15vw;
     }
     .conteiner{
         margin-top: 20px;
@@ -26,43 +28,43 @@
     }
     #card1{
         margin-top: 10px;
-        margin-left: 10px;
+        margin-left: 13px;
     }
     #preco1{
-        margin-left: 10px;
-        margin-top: 3px;
+        margin-left: 440px;
+        margin-top: -130px;
     }
     #card2{
-        margin-top: 10px;
+        margin-top: 120px;
         margin-left: 10px;
     }
     #preco2{
-        margin-left: 10px;
-        margin-top: 3px;
+        margin-left: 440px;
+        margin-top: -130px;
     }
     #card3{
-        margin-top: 10px;
+        
+        margin-top: 130px;
         margin-left: 10px;
     }
     #preco3{
-        margin-left: 10px;
-        margin-top: 3px;
+        
+        margin-left: 440px;
+        margin-top: -100px;
+       
     }
     #card4{
-        position: absolute;
-        margin-top:  -1010px;
+        margin-top:  -870px;
         margin-left: 700px;
         width: 370px;
         height: 280px;
     }
     #preco4{
-        position: absolute;
         margin-left: 1100px;
-        margin-top: -900px;
+        margin-top: -780px;
     }
     #card5{
-        position: absolute;
-        margin-top:  -680px;
+        margin-top:  -550px;
         margin-left: 700px;
         width: 370px;
         height: 280px;
@@ -70,28 +72,27 @@
     #preco5{
         position: absolute;
         margin-left: 1100px;
-        margin-top: -600px;
+        margin-top: -470px;
     }
     #card6{
-        position: absolute;
-        margin-top:  -338px;
+        margin-top:  -217px;
         margin-left: 700px;
         width: 370px;
         height: 280px;
         
     }
     #preco6{
-        position: absolute;
         margin-left: 1100px;
-        margin-top: -270px;
+        margin-top: -100px;
     }
     footer{
-        background-color:maroon ;
-        margin-top: 0%;
+        background-color:#823D23;
+        margin-top: 10%;
         height: 80px;
         width: 99.9%;
         display: flex;
         justify-content: center;
         padding: auto;
+        position: absolute;
     }
 }
