@@ -21,6 +21,33 @@ nav{
     margin-top: 44px;
     margin-left: -22px;
     width: 100%;
+    background-color: black;
+    height: 25px;
+}
+a{
+    color: beige;
+    margin-left: 20px;
+    padding: 0px;
+}
+.item1{
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 5px;
+}
+.item2{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 5px;
+}
+.item3{
+    position: absolute;
+    margin-left: 270px;
+    margin-top: 5px;
+}
+.item4{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 5px;
 }
 #img1{
     width: 99.9%;
