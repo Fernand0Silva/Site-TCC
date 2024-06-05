@@ -33,21 +33,29 @@ a{
     position: absolute;
     margin-left: 25px;
     margin-top: 5px;
+    text-decoration: none;
+
 }
 .item2{
     position: absolute;
     margin-left: 100px;
     margin-top: 5px;
+    text-decoration: none;
+
 }
 .item3{
     position: absolute;
     margin-left: 270px;
     margin-top: 5px;
+    text-decoration: none;
+
 }
 .item4{
     position: absolute;
     margin-left: 200px;
     margin-top: 5px;
+    text-decoration: none;
+
 }
 #img1{
     width: 99.9%;

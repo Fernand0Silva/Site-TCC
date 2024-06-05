@@ -34,6 +34,7 @@
     }
     .menu-item {
         position: relative;
+        
     }
     .menu-item a {
         display: block;
@@ -82,12 +83,13 @@
 
     .item1{
         position: absolute;
-        margin-left: 25px;
+        margin-left: 30px;
         margin-top: 5px;
+        text-decoration: none;
     }
     .item2{
         position: absolute;
-        margin-left: 100px;
+        margin-left: 85px;
         margin-top: 5px;
     }
     .item3{
